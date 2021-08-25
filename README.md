@@ -5,7 +5,7 @@
 - 📫 dariaojr@gmail.com
 - 😄 Pronouns: he/his
 
- <img align="left" alt="Dario-yoda" src="https://cdn.discordapp.com/avatars/430686948521148418/a13ba7d6c5ed346b3e01aaae210e898a.png?size=128">
+ <img align="left" alt="Dario-yoda" src="https://cdn.discordapp.com/avatars/430686948521148418/a13ba7d6c5ed346b3e01aaae210e898a.png?size=128"></br>
 
  <div>
   <a href="https://github.com/darioajr">

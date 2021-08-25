@@ -1,5 +1,5 @@
 ### Hi there 👋
-</p>
+<p>
 <img height="180em" src="https://cdn.discordapp.com/avatars/430686948521148418/a13ba7d6c5ed346b3e01aaae210e898a.png?size=128">
 </p>
 - 🔭 Today I work with architecture, devops and development

@@ -5,7 +5,7 @@
 - 📫 dariaojr@gmail.com
 - 😄 Pronouns: he/his
 
-
+ <img align="left" alt="Dario-yoda" src="https://cdn.discordapp.com/avatars/430686948521148418/a13ba7d6c5ed346b3e01aaae210e898a.png?size=128">
 
  <div>
   <a href="https://github.com/darioajr">
@@ -13,7 +13,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioajr&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="left" alt="Dario-magic" src="https://github.com/snipe/animated-gifs/blob/master/Techy/bmo-recharge.gif">
   <img align="center" alt="Dario-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dario-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Dario-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -21,7 +20,7 @@
   <img align="center" alt="Dario-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dario-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dario-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Dario-yoda" src="https://cdn.discordapp.com/avatars/430686948521148418/a13ba7d6c5ed346b3e01aaae210e898a.png?size=128">
+  <img align="right" alt="Dario-magic" src="https://github.com/snipe/animated-gifs/blob/master/Techy/bmo-recharge.gif">
 </div>
  
  ##

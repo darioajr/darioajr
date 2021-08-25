@@ -1,13 +1,15 @@
 ### Hi there 👋
-
+</p>
+<img height="180em" src="https://cdn.discordapp.com/avatars/430686948521148418/a13ba7d6c5ed346b3e01aaae210e898a.png?size=128">
+</p>
 - 🔭 Today I work with architecture, devops and development
 - 🌱 learning RUST
 - 📫 dariaojr@gmail.com
 - 😄 Pronouns: he/his
 
- <img align="left" alt="Dario-yoda" src="https://cdn.discordapp.com/avatars/430686948521148418/a13ba7d6c5ed346b3e01aaae210e898a.png?size=128"></br>
+ 
 
- <div>
+<div>
   <a href="https://github.com/darioajr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darioajr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioajr&layout=compact&langs_count=7&theme=dark"/>

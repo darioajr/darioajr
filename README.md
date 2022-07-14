@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Today I work with architecture, devops and development
-- 🌱 learning RUST
+- 🔭 Today I work with architecture, cloud, devops and development
+- 🌱 learning
 - 📫 dariaojr@gmail.com
 - 😄 Pronouns: he/his
 

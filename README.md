@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Today I work with architecture, cloud, devops and development
+- 🔭 Today I work with architecture, cloud, devops, development and SRE
 - 🌱 learning
 - 📫 dariaojr@gmail.com
 - 😄 Pronouns: he/his

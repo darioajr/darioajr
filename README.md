@@ -99,3 +99,5 @@
 </div>
 
 <img align="center" alt="Dario-magic" src="https://github.com/snipe/animated-gifs/blob/master/Techy/bmo-recharge.gif">
+<img align="center" alt="Dario-magic" src="https://github.com/snipe/animated-gifs/blob/master/Techy/BugFixing.gif">
+

@@ -2,11 +2,8 @@
 
 <h3 align="left">About Me🧔‍♂️</h3>
 - 🔭 Today I work with architecture, cloud, devops, development and SRE
-
 - 🌱 learning High Performance Applications
-- 
 - 📫 Contact me **dariaojr@gmail.com**
-- 
 - 😄 Pronouns: he/his
 
  

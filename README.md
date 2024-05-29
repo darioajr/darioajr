@@ -73,7 +73,10 @@
 
 <h2 align="center">Cloud Certifications</h2>
 <div align="center">
-  <img width="300px" src="https://skillicons.dev/icons?i=aws,azure,gcp,oci&perline=10" />
+  <a href="https://google.accredible.com/714ec685-4021-483e-856e-5f8ca27fc56a" target="_blank"><img width="300px" src="https://skillicons.dev/icons?i=gcp&perline=10" /></a>
+  <img width="300px" src="https://skillicons.dev/icons?i=azure&perline=10" />
+  <img width="300px" src="https://skillicons.dev/icons?i=oci&perline=10" />
+  <img width="300px" src="https://skillicons.dev/icons?i=aws&perline=10" />
 </div>
 
 

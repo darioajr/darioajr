@@ -75,7 +75,7 @@
 <div align="center">
   <a href="https://google.accredible.com/714ec685-4021-483e-856e-5f8ca27fc56a" target="_blank"><img src="https://skillicons.dev/icons?i=gcp&perline=10" /></a>
   <a href="https://learn.microsoft.com/api/credentials/share/pt-br/DarioAlvesJunior-2390/F4BAD7F5B9583904?sharingId=999E1E5B68689D89" target="_blank"><img src="https://skillicons.dev/icons?i=azure&perline=10" /></a>
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=986DFEB57C2456511EBAFE784C15E00800730D1FFEE1F0C5E1D802D33B34AD13" target="_blank"><img src="https://logowik.com/content/uploads/images/oracle-cloud-infrastructure3345.jpg"></a>
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=986DFEB57C2456511EBAFE784C15E00800730D1FFEE1F0C5E1D802D33B34AD13" target="_blank"><img width="60px" src="https://logowik.com/content/uploads/images/oracle-cloud-infrastructure3345.jpg"></a>
   <img src="https://skillicons.dev/icons?i=aws&perline=10" />
 </div>
 

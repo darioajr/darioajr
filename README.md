@@ -13,7 +13,7 @@
 
 - 💙 I love to building Things in **JavaScript**, **Java** and **Python**
 
-- 🌱 I’m currently learning High Performance Applications using Apache Kafka, Apache Flink, Apache Storm and Apache Apark
+- 🌱 I’m currently learning High Performance Applications using Apache Kafka, Apache Flink, Apache Storm and Apache Spark
 
 - 💬 Ask me about **JavaScript, React/Angular, React Native/Flutter/Swift, Python, Java, C/C++**
 

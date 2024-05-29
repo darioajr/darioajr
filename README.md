@@ -98,7 +98,7 @@
  
 </div>
 
-<div style="text-align: center;">
+<div style="align: center;">
         <img alt="Philosophy" src="https://raw.githubusercontent.com/snipe/animated-gifs/master/Techy/bmo-recharge.gif" style="display: inline-block; vertical-align: top; height: 200px;">
         <img alt="BugFix" src="https://raw.githubusercontent.com/snipe/animated-gifs/master/Techy/BugFixing.gif" style="display: inline-block; vertical-align: top; height: 200px;">
 </div>

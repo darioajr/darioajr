@@ -63,7 +63,7 @@
 
 <h2 align="center">Frameworks & Libraries</h2>
 <div align="center">
-  <img width="300px" src="https://skillicons.dev/icons?i=nodejs,django,flask,react,redux,tailwind,materialui,bootstrap,sass,jquery,angular,dotnet,spring,flutter,reactnative,rails,nextjs,apollo,cassandra,cmake,kafka,cypress,elasticsearch,firebase,gatsby,githubactions,grafana,graphql,hibernate,jenkins,laravel,nestjs,prometheus,pytorch,qt,styledcomponents,sentry,selenium,sequelize,svelte,tensorflow,vue,yarn,wordpress&perline=10" />
+  <img width="300px" src="https://skillicons.dev/icons?i=nodejs,django,flask,react,redux,tailwind,materialui,bootstrap,sass,jquery,angular,dotnet,spring,flutter,rails,nextjs,apollo,cassandra,cmake,kafka,cypress,elasticsearch,firebase,gatsby,githubactions,grafana,graphql,hibernate,jenkins,laravel,nestjs,prometheus,pytorch,qt,styledcomponents,sentry,selenium,sequelize,svelte,tensorflow,vue,yarn,wordpress&perline=10" />
 </div>
 
 <h2 align="center">Software & Tools</h2>

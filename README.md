@@ -10,14 +10,6 @@
 - 😄 Pronouns: he/his
 
  
-<h3 align="left">Connect With Me</h3>
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:darioajr@gmail.com)](mailto:darioajr@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darioajr/)](https://www.linkedin.com/in/darioajr)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/darioajr)](https://github.com/darioajr)
-[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-f48730?style=flat-square&logo=stack-overflow&logoColor=white&link=https://github.com/darioajr)](https://stackoverflow.com/users/1467039/darioajr)
-[![X](https://img.shields.io/badge/-Twitter-black?style=flat&logo=x&logoColor=white)](https://x.com/darioajr)
-
-
 <div>
   <a href="https://github.com/darioajr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darioajr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -36,7 +28,9 @@
 </div>
  
  ##
- 
+
+ <h3 align="left">Connect With Me</h3>
+
  <div> 
   <a href="https://api.whatsapp.com/send?phone=5547991117775&text=Dario%20Alves%20Junior" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" ></a>
   <a href="https://t.me/darioajr" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>

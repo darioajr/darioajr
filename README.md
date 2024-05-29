@@ -12,6 +12,33 @@
 
 <!-- My Github stats --> 
 <h2 align="center">:spiral_calendar: My Gɪᴛʜᴜʙ Sᴛᴀᴛs :spiral_calendar:</h2>
+<table width="100%" align="center">
+  <tr>
+    <th>
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+    </th>
+    <th>
+      <h3 align="center"><strong>Language Sᴛᴀᴛs</strong></h3>
+    </th>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="center">
+        <a href="https://github.com/darioajr">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=darioarj&theme=transparent&hide_border=true&text_bold=true" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <p align="center">
+        <a href="https://github.com/darioajr">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioajr&layout=compact&theme=transparent&hide_border=true&text_bold=true&hide=Jupyter%20Notebook" alt="Language Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 <div>
   <a href="https://github.com/darioajr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darioajr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

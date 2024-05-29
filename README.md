@@ -2,8 +2,6 @@
   I'm <a href="https://github.com/dariaojr">Dario</a> Alves Junior</h1>
 <h2 align="center">A Self-taught Passionate Full-Stack Developer | Software Architect from [Brazil | Portugal]</h2>
 
-### Hi there 👋
-
 <br/>
 <p align="left">
   <img alt="Profile view" src="https://komarev.com/ghpvc/?username=darioajr&label=PROFILE+VIEWS&style=for-the-badge&color=045ddc">
@@ -13,7 +11,11 @@
 
 - 🔭 Today I work with architecture, cloud, devops, development and SRE
 
-- 🌱 learning High Performance Applications
+- 💙 I love to building Things in **JavaScript**, **Java** and **Python**
+
+- 🌱 I’m currently learning High Performance Applications using Apache Kafka, Apache Flink, Apache Storm and Apache Apark
+
+- 💬 Ask me about **JavaScript, React/Angular, React Native/Flutter/Swift, Python, Java, C/C++**
 
 - 📫 Contact me: **dariaojr@gmail.com**
 

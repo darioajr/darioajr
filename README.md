@@ -25,7 +25,7 @@
     <td width="50%">
       <p align="center">
         <a href="https://github.com/darioajr">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=darioarj&theme=transparent&hide_border=true&text_bold=true" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=darioajr&theme=transparent&hide_border=true&text_bold=true" alt="GitHub Stats" />
         </a>
       </p>
     </td>

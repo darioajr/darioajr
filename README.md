@@ -41,23 +41,28 @@
 
 <h2 align="center">Languages</h2>
 <div align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=py,js,ts,html,css,java,ruby,cpp,c,go,rust,dart&perline=10" />
+  <img width="800px" src="https://skillicons.dev/icons?i=py,js,ts,html,css,java,ruby,csharp,cpp,c,go,rust,dart&perline=10" />
 </div>
 
 <h2 align="center">Database</h2>
 <div align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,mssql,oracle,nosql,mongodb,redis&perline=10" />
+  <img width="800px" src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,mssql,oracle,mongodb,redis&perline=10" />
 </div>
 
 
 <h2 align="center">Frameworks & Libraries</h2>
 <div align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=nodejs,django,flask,react,redux,tailwind,materialui,bootstrap,sass,jquery,angular, springboot,flutter,reactnative&perline=10" />
+  <img width="800px" src="https://skillicons.dev/icons?i=nodejs,django,flask,react,redux,tailwind,materialui,bootstrap,sass,jquery,angular,springboot,flutter,reactnative,rails&perline=10" />
 </div>
 
 <h2 align="center">Software & Tools</h2>
 <div align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=docker,kubernetes, terraform,kafka,git,github,vscode,postman,replit,linux,figma,vercel,netlify&perline=10" />
+  <img width="800px" src="https://skillicons.dev/icons?i=docker,kubernetes, terraform,kafka,git,github,vscode,postman,replit,linux,figma,vercel,netlify,nextjs&perline=10" />
+</div>
+
+<h2 align="center">Cloud</h2>
+<div align="center">
+  <img width="800px" src="https://skillicons.dev/icons?i=aws,azure,gcp,oci&perline=10" />
 </div>
 
 <div style="display: inline_block"><br>

@@ -71,7 +71,7 @@
   <img width="300px" src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,kafka,git,github,vscode,postman,replit,linux,figma,vercel,netlify,androidstudio,ansible,bash,bitbucket,gitlab,github,maven,nginx,npm,rabbitmq&perline=10" />
 </div>
 
-<h2 align="center">Cloud</h2>
+<h2 align="center">Cloud Certifications</h2>
 <div align="center">
   <img width="300px" src="https://skillicons.dev/icons?i=aws,azure,gcp,oci&perline=10" />
 </div>

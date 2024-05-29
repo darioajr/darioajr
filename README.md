@@ -1,5 +1,5 @@
 <h1 align="center">Hi <a href="https://github.com/darioajr"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>, 
-  I'm <a href="https://github.com/dariaojr">Dario</a> Alves Junior</h1>
+  I'm <a href="https://github.com/darioajr">Dario</a> Alves Junior</h1>
 <h2 align="center">A Self-taught Passionate Full-Stack Developer | Software Architect from Brazil</h2>
 
 <br/>

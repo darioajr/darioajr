@@ -39,14 +39,20 @@
   </tr>
 </table>
 
-<h2 align="center">Languages & Database</h2>
+<h2 align="center">Languages</h2>
 <div align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=py,js,ts,html,css,sqlite,mysql,postgres,mssql,oracle,nosql,mongodb,redis&perline=10" />
+  <img width="500px" src="https://skillicons.dev/icons?i=py,js,ts,html,css,java,ruby,cpp,c,go,rust,dart&perline=10" />
 </div>
+
+<h2 align="center">Database</h2>
+<div align="center">
+  <img width="500px" src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,mssql,oracle,nosql,mongodb,redis&perline=10" />
+</div>
+
 
 <h2 align="center">Frameworks & Libraries</h2>
 <div align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=nodejs,django,flask,react,redux,tailwind,materialui,bootstrap,sass,jquery,angular&perline=10" />
+  <img width="500px" src="https://skillicons.dev/icons?i=nodejs,django,flask,react,redux,tailwind,materialui,bootstrap,sass,jquery,angular, springboot,flutter,reactnative&perline=10" />
 </div>
 
 <h2 align="center">Software & Tools</h2>

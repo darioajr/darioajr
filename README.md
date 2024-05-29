@@ -46,7 +46,7 @@
 
 <h2 align="center">Database</h2>
 <div align="center">
-  <img width="300px" src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,mssql,oracle,mongodb,redis&perline=10" />
+  <img width="300px" src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb,redis&perline=10" />
 </div>
 
 
@@ -65,18 +65,7 @@
   <img width="300px" src="https://skillicons.dev/icons?i=aws,azure,gcp,oci&perline=10" />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Dario-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dario-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Dario-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Dario-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dario-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dario-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Dario-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Dario-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="right" alt="Dario-image" src="https://cdn.discordapp.com/avatars/430686948521148418/a13ba7d6c5ed346b3e01aaae210e898a.png?size=128">
-</div>
- 
+
  ##
 
  <h3 align="left">Connect With Me</h3>

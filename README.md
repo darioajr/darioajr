@@ -10,7 +10,8 @@
 
 - 😄 Pronouns: He/His
 
- 
+<!-- My Github stats --> 
+<h2 align="center">:spiral_calendar: My Gɪᴛʜᴜʙ Sᴛᴀᴛs :spiral_calendar:</h2>
 <div>
   <a href="https://github.com/darioajr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darioajr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

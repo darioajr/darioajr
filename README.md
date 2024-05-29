@@ -98,6 +98,6 @@
  
 </div>
 
-<img align="center" alt="Dario-magic" src="https://github.com/snipe/animated-gifs/blob/master/Techy/bmo-recharge.gif">
-<img align="center" alt="Dario-magic" src="https://github.com/snipe/animated-gifs/blob/master/Techy/BugFixing.gif">
+<img align="left" alt="Philosophy" src="https://github.com/snipe/animated-gifs/blob/master/Techy/bmo-recharge.gif">
+<img align="right" alt="BugFix" src="https://github.com/snipe/animated-gifs/blob/master/Techy/BugFixing.gif">
 

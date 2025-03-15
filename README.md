@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **JavaScript, React/Angular, React Native/Flutter/Swift, Python, Java, C/C++**
 
-- 📫 Contact me: **dariaojr@gmail.com**
+- 📫 Contact me: **darioajr@gmail.com**
 
 - 😄 Pronouns: He/His
 

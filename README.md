@@ -9,9 +9,9 @@
 
 <h3 align="left">About Me🧔‍♂️</h3>
 
-- 🔭 Today I work with architecture, cloud, devops, development and SRE
+- 🔭 Today I work with architecture, cloud, devops and development
 
-- 💙 I love to building Things in **JavaScript**, **Java** and **Python**
+- 💙 I love to building Things in **JavaScript**, **Java**, **Python**, **C++**, **C#** and **Go**
 
 - 🌱 I’m currently learning High Performance Applications using Apache Kafka, Apache Flink, Apache Storm and Apache Spark
 

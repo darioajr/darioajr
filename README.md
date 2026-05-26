@@ -24,14 +24,9 @@
 <!-- My Github stats --> 
 ## :spiral_calendar: My Gɪᴛʜᴜʙ Sᴛᴀᴛs :spiral_calendar:
 
-<p align="center">
-  <a href="https://github.com/darioajr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darioajr&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/darioajr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioajr&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
-  </a>
-</p>
+[![Dario's GitHub stats](https://github-readme-stats.vercel.app/api?username=darioajr&show_icons=true&include_all_commits=true)](https://github.com/darioajr)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darioajr&layout=compact&langs_count=8)](https://github.com/darioajr)
 
 <h2 align="center">Languages</h2>
 <div align="center">

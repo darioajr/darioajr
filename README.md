@@ -23,42 +23,25 @@
 
 <!-- My Github stats --> 
 <h2 align="center">:spiral_calendar: My Gɪᴛʜᴜʙ Sᴛᴀᴛs :spiral_calendar:</h2>
-<table width="100%" align="center">
-  <tr>
-    <th>
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-    </th>
-    <th>
-      <h3 align="center"><strong>Language Sᴛᴀᴛs</strong></h3>
-    </th>
-  </tr>
-  <tr>
-    <td width="50%">
-      <p align="center">
-        <a href="https://github.com/darioajr">
-          <img
-            align="center"
-            height="180"
-            src="https://github-readme-stats.vercel.app/api?username=darioajr&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&text_bold=true"
-            alt="Dario Alves Junior GitHub Stats"
-          />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <p align="center">
-        <a href="https://github.com/darioajr">
-          <img
-            align="center"
-            height="180"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioajr&layout=compact&theme=transparent&hide_border=true&langs_count=10&hide=html,css"
-            alt="Dario Alves Junior Language Stats"
-          />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <a href="https://github.com/darioajr">
+    <img
+      height="200"
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=darioajr&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github&locale=pt-br"
+      alt="Dario Alves Junior GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/darioajr">
+    <img
+      height="200"
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioajr&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true&locale=pt-br&size_weight=0.5&count_weight=0.5"
+      alt="Dario Alves Junior Top Languages"
+    />
+  </a>
+</p>
 
 <h2 align="center">Languages</h2>
 <div align="center">

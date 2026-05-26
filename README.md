@@ -36,14 +36,24 @@
     <td width="50%">
       <p align="center">
         <a href="https://github.com/darioajr">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=darioajr&theme=transparent&hide_border=true&text_bold=true" alt="GitHub Stats" />
+          <img
+            align="center"
+            height="180"
+            src="https://github-readme-stats.vercel.app/api?username=darioajr&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&text_bold=true"
+            alt="Dario Alves Junior GitHub Stats"
+          />
         </a>
       </p>
     </td>
     <td width="50%">
       <p align="center">
         <a href="https://github.com/darioajr">
-          <img align="center" src="https://github.com/anuraghazra/github-readme-stats" alt="Language Stats" />
+          <img
+            align="center"
+            height="180"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioajr&layout=compact&theme=transparent&hide_border=true&langs_count=10&hide=html,css"
+            alt="Dario Alves Junior Language Stats"
+          />
         </a>
       </p>
     </td>

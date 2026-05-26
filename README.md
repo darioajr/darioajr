@@ -43,7 +43,7 @@
     <td width="50%">
       <p align="center">
         <a href="https://github.com/darioajr">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioajr&layout=compact&theme=transparent&hide_border=true&text_bold=true&hide=Jupyter%20Notebook" alt="Language Stats" />
+          <img align="center" src="https://github.com/anuraghazra/github-readme-stats" alt="Language Stats" />
         </a>
       </p>
     </td>

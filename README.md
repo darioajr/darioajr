@@ -22,24 +22,14 @@
 - 😄 Pronouns: He/His
 
 <!-- My Github stats --> 
-<h2 align="center">:spiral_calendar: My Gɪᴛʜᴜʙ Sᴛᴀᴛs :spiral_calendar:</h2>
+## :spiral_calendar: My Gɪᴛʜᴜʙ Sᴛᴀᴛs :spiral_calendar:
 
 <p align="center">
   <a href="https://github.com/darioajr">
-    <img
-      height="200"
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=darioajr&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github&locale=pt-br"
-      alt="Dario Alves Junior GitHub Stats"
-    />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darioajr&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/darioajr">
-    <img
-      height="200"
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioajr&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true&locale=pt-br&size_weight=0.5&count_weight=0.5"
-      alt="Dario Alves Junior Top Languages"
-    />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioajr&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
   </a>
 </p>
 
